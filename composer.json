@@ -1,0 +1,12 @@
+{
+    "name": "kawahara/async-php-demo-1",
+    "authors": [
+        {
+            "name": "Shogo Kawahara",
+            "email": "kawahara@bucyou.net"
+        }
+    ],
+    "require": {
+        "kohkimakimoto/background-process": "1.1.*"
+    }
+}
